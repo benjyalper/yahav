@@ -1,0 +1,43 @@
+body {
+    background-color: #04B2D9;
+}
+
+.tiktok {
+    background-color: #D48DF2;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#tiktokBtn {
+    background-color: #9552F2;
+}
+
+hr {
+    border: 0;
+    background-color: #A3A649;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.Arrow {
+    background-color: #D48DF2;
+    border-radius: 100%;
+}
+
+.headSection {
+    background-color: #D48DF2;
+}
+
+
+/*rgb(188, 211, 203)*/
+
+/*pallete*/
+/*
+#04B2D9- light blue
+#049DD9- blue
+#A3A649- green kaki
+#9552F2- purple
+#D48DF2- pink 
+*/
